@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Playwrite+IS:wght@100..400&display=swap');
+/* font-family: "Playwrite IS", cursive; */
+body{
+    font-family: "Manrope", sans-serif;
+}
+.main{
+
+ background-color: #C7362E;
+
+}
+.navbar-brand{
+   
+}
+.navbar a{
+
+ color: rgb(193, 201, 207);
+}
+
+
+
+.main-left{
+
+
+}
+
+.main-left h1{
+font-size: 90px;
+color: rgb(193, 201, 207);
+font-family: "Manrope", sans-serif;
+
+}
+
+.main-left p{
+font-size: 25px;
+ color: rgb(193, 201, 207);
+ font-family: "Manrope", sans-serif;
+}
+
+.main-right{
+
+
+}
+.main-right img{
+
+margin-top: 20%;
+}
+.card{
+    float: left;
+}
+
+
+
+
+footer{
+  
+
+    color: white;
+
+}
+footer h6{
+ 
+   
+    color: white;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+}
